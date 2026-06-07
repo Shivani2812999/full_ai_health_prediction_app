@@ -229,26 +229,6 @@ DELETE /patients/{id}
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-(Add Screenshot)
-
-### Add Patient Form
-
-(Add Screenshot)
-
-### Patient Records
-
-(Add Screenshot)
-
-### AI Prediction Result
-
-(Add Screenshot)
-
----
-
 ## Challenges Faced
 
 * Integrating AI predictions with patient workflows
